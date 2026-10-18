@@ -1,7 +1,7 @@
 # BVP Tokuyama Scraper
 
-[![test](https://github.com/shimomo/bvp-tokuyama-scraper/actions/workflows/test.yml/badge.svg)](https://github.com/shimomo/bvp-tokuyama-scraper/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/shimomo/bvp-tokuyama-scraper/graph/badge.svg?token=hmn4OrclRE)](https://codecov.io/gh/shimomo/bvp-tokuyama-scraper)
+[![test](https://github.com/boatracevibeproject/tokuyama-scraper/actions/workflows/test.yml/badge.svg)](https://github.com/boatracevibeproject/tokuyama-scraper/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/boatracevibeproject/tokuyama-scraper/graph/badge.svg)](https://codecov.io/gh/boatracevibeproject/tokuyama-scraper)
 [![php](https://poser.pugx.org/bvp/tokuyama-scraper/require/php)](https://packagist.org/packages/bvp/tokuyama-scraper)
 [![stable](https://poser.pugx.org/bvp/tokuyama-scraper/v/stable)](https://packagist.org/packages/bvp/tokuyama-scraper)
 [![unstable](https://poser.pugx.org/bvp/tokuyama-scraper/v/unstable)](https://packagist.org/packages/bvp/tokuyama-scraper#5.x-dev)
